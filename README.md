@@ -1,0 +1,2 @@
+# shc
+squad-health-check
