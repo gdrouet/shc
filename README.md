@@ -4,7 +4,22 @@ SHC is a web-application for the scrum tool called "Squad Health Check"
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+to install dependencies
+
+```sh
+npm install
+```
+
+to build
+
+```sh
+npm run clean & npm run build
+```
+
+to start
+```sh
+npm start
+```
 
 ## License
 
