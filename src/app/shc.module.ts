@@ -2,7 +2,7 @@ import {NgModule}      from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
 
 import {SHC} from "./shc";
-import {AppWrapper} from "./component/app.wrapper";
+import {AppWrapper} from "./component/shc.wrapper";
 
 import {routing, appRoutingProviders} from './shc.router';
 

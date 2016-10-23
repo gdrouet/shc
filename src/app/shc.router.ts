@@ -1,7 +1,7 @@
 import {Routes, RouterModule} from '@angular/router';
 import {ModuleWithProviders} from "@angular/core";
 import {SHC} from "./shc";
-import {AppWrapper} from "./component/app.wrapper";
+import {AppWrapper} from "./component/shc.wrapper";
 
 const appRoutes: Routes = [
     {path: '', component: AppWrapper, data: {title: 'SHC'}}
